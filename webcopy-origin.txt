@@ -1,0 +1,332 @@
+Uri: https://i3n.news1.kr/system/resource/news1_www/renew/company_connect.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\renew\company_connect.png
+Content Type: image/jpeg
+
+Uri: https://i3n.news1.kr/system/resource/news1_www/renew/company_history.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\renew\company_history.png
+Content Type: image/jpeg
+
+Uri: https://i3n.news1.kr/system/resource/news1_www/renew/company_info.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\renew\company_info.png
+Content Type: image/jpeg
+
+Uri: https://i3n.news1.kr/system/resource/news1_www/renew/company_organization.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\renew\company_organization.png
+Content Type: image/jpeg
+
+Uri: https://i3n.news1.kr/system/resource/news1_www/renew/contents_photo_01_PC.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\renew\contents_photo_01_PC.png
+Content Type: image/jpeg
+
+Uri: https://i3n.news1.kr/system/resource/news1_www/renew/contents_photo_02_PC.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\renew\contents_photo_02_PC.png
+Content Type: image/jpeg
+
+Uri: https://i3n.news1.kr/system/resource/news1_www/renew/contents_photo_03_PC.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\renew\contents_photo_03_PC.png
+Content Type: image/jpeg
+
+Uri: https://i3n.news1.kr/system/resource/news1_www/renew/contents_photo_04_PC.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\renew\contents_photo_04_PC.png
+Content Type: image/jpeg
+
+Uri: https://image.news1.kr/system/photos/2025/3/24/7197287/no_water.jpg/dims/crop/560x560/quality/80/optimize
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\photos\2025\3\24\7197287\no_water.jpg\dims\crop\560x560\quality\80\optimize
+Content Type: image/jpeg
+
+Uri: https://image.news1.kr/system/photos/2025/5/21/7300290/no_water.jpg/dims/crop/628x628/quality/80/optimize
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\photos\2025\5\21\7300290\no_water.jpg\dims\crop\628x628\quality\80\optimize
+Content Type: image/jpeg
+
+Uri: https://image.news1.kr/system/resource/news1_m/renew/company_connect.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_m\renew\company_connect.png
+Content Type: image/png
+
+Uri: https://image.news1.kr/system/resource/news1_m/renew/company_history.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_m\renew\company_history.png
+Content Type: image/png
+
+Uri: https://image.news1.kr/system/resource/news1_m/renew/company_info.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_m\renew\company_info.png
+Content Type: image/png
+
+Uri: https://image.news1.kr/system/resource/news1_m/renew/company_organization.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_m\renew\company_organization.png
+Content Type: image/png
+
+Uri: https://image.news1.kr/system/resource/news1_m/renew/contents_photo_01.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_m\renew\contents_photo_01.png
+Content Type: image/png
+
+Uri: https://image.news1.kr/system/resource/news1_m/renew/contents_photo_01_T.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_m\renew\contents_photo_01_T.png
+Content Type: image/png
+
+Uri: https://image.news1.kr/system/resource/news1_m/renew/contents_photo_02.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_m\renew\contents_photo_02.png
+Content Type: image/png
+
+Uri: https://image.news1.kr/system/resource/news1_m/renew/contents_photo_02_T.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_m\renew\contents_photo_02_T.png
+Content Type: image/png
+
+Uri: https://image.news1.kr/system/resource/news1_m/renew/contents_photo_03.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_m\renew\contents_photo_03.png
+Content Type: image/png
+
+Uri: https://image.news1.kr/system/resource/news1_m/renew/contents_photo_03_T.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_m\renew\contents_photo_03_T.png
+Content Type: image/png
+
+Uri: https://image.news1.kr/system/resource/news1_m/renew/contents_photo_04.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_m\renew\contents_photo_04.png
+Content Type: image/png
+
+Uri: https://image.news1.kr/system/resource/news1_m/renew/contents_photo_04_T.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_m\renew\contents_photo_04_T.png
+Content Type: image/png
+
+Uri: https://image.news1.kr/system/resource/news1_www/fonts/notesanskr/fonts/NotoSansKR-Black.woff
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\fonts\notesanskr\fonts\NotoSansKR-Black.woff
+Content Type: font/woff
+
+Uri: https://image.news1.kr/system/resource/news1_www/fonts/notesanskr/fonts/NotoSansKR-Bold.woff
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\fonts\notesanskr\fonts\NotoSansKR-Bold.woff
+Content Type: font/woff
+
+Uri: https://image.news1.kr/system/resource/news1_www/fonts/notesanskr/fonts/NotoSansKR-Bold.woff2
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\fonts\notesanskr\fonts\NotoSansKR-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://image.news1.kr/system/resource/news1_www/fonts/notesanskr/fonts/NotoSansKR-Light.woff
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\fonts\notesanskr\fonts\NotoSansKR-Light.woff
+Content Type: font/woff
+
+Uri: https://image.news1.kr/system/resource/news1_www/fonts/notesanskr/fonts/NotoSansKR-Medium.woff
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\fonts\notesanskr\fonts\NotoSansKR-Medium.woff
+Content Type: font/woff
+
+Uri: https://image.news1.kr/system/resource/news1_www/fonts/notesanskr/fonts/NotoSansKR-Medium.woff2
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\fonts\notesanskr\fonts\NotoSansKR-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://image.news1.kr/system/resource/news1_www/fonts/notesanskr/fonts/NotoSansKR-Regular.woff
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\fonts\notesanskr\fonts\NotoSansKR-Regular.woff
+Content Type: font/woff
+
+Uri: https://image.news1.kr/system/resource/news1_www/fonts/notesanskr/fonts/NotoSansKR-Regular.woff2
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\fonts\notesanskr\fonts\NotoSansKR-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://image.news1.kr/system/resource/news1_www/fonts/notesanskr/fonts/NotoSansKR-Thin.woff
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\fonts\notesanskr\fonts\NotoSansKR-Thin.woff
+Content Type: font/woff
+
+Uri: https://image.news1.kr/system/resource/news1_www/images/common/man_sample.jpg/dims/quality/80/optimize
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\images\common\man_sample.jpg\dims\quality\80\optimize
+Content Type: image/jpeg
+
+Uri: https://image.news1.kr/system/resource/news1_www/images/logo/section-logo.svg
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\images\logo\section-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://image.news1.kr/system/resource/news1_www/images/logo/star1_logo.svg
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\images\logo\star1_logo.svg
+Content Type: image/svg+xml
+
+Uri: https://image.news1.kr/system/resource/news1_www/renew/contents_photo_01.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\renew\contents_photo_01.png
+Content Type: image/png
+
+Uri: https://image.news1.kr/system/resource/news1_www/renew/contents_photo_02.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\renew\contents_photo_02.png
+Content Type: image/png
+
+Uri: https://image.news1.kr/system/resource/news1_www/renew/contents_photo_03.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\renew\contents_photo_03.png
+Content Type: image/png
+
+Uri: https://image.news1.kr/system/resource/news1_www/renew/contents_photo_04.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\renew\contents_photo_04.png
+Content Type: image/png
+
+Uri: https://image.news1.kr/system/resource/news1_www/renew/favicon-114.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\renew\favicon-114.png
+Content Type: image/png
+
+Uri: https://image.news1.kr/system/resource/news1_www/renew/favicon-120.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\renew\favicon-120.png
+Content Type: image/png
+
+Uri: https://image.news1.kr/system/resource/news1_www/renew/favicon-144.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\renew\favicon-144.png
+Content Type: image/png
+
+Uri: https://image.news1.kr/system/resource/news1_www/renew/favicon-152.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\renew\favicon-152.png
+Content Type: image/png
+
+Uri: https://image.news1.kr/system/resource/news1_www/renew/favicon-16.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\renew\favicon-16.png
+Content Type: image/png
+
+Uri: https://image.news1.kr/system/resource/news1_www/renew/favicon-180.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\renew\favicon-180.png
+Content Type: image/png
+
+Uri: https://image.news1.kr/system/resource/news1_www/renew/favicon-192.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\renew\favicon-192.png
+Content Type: image/png
+
+Uri: https://image.news1.kr/system/resource/news1_www/renew/favicon-32.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\renew\favicon-32.png
+Content Type: image/png
+
+Uri: https://image.news1.kr/system/resource/news1_www/renew/favicon-57.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\renew\favicon-57.png
+Content Type: image/png
+
+Uri: https://image.news1.kr/system/resource/news1_www/renew/favicon-60.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\renew\favicon-60.png
+Content Type: image/png
+
+Uri: https://image.news1.kr/system/resource/news1_www/renew/favicon-72.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\renew\favicon-72.png
+Content Type: image/png
+
+Uri: https://image.news1.kr/system/resource/news1_www/renew/favicon-76.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\renew\favicon-76.png
+Content Type: image/png
+
+Uri: https://image.news1.kr/system/resource/news1_www/renew/favicon-96.png
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\renew\favicon-96.png
+Content Type: image/png
+
+Uri: https://image.news1.kr/system/resource/news1_www/renew/favicon.ico
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\resource\news1_www\renew\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://image.news1.kr/system/_sjs/_next/static/chunks/1495-b827c75e9175cfef.js
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\_sjs\_next\static\chunks\1495-b827c75e9175cfef.js
+Content Type: application/javascript
+
+Uri: https://image.news1.kr/system/_sjs/_next/static/chunks/1664-097cf1773184f113.js
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\_sjs\_next\static\chunks\1664-097cf1773184f113.js
+Content Type: application/javascript
+
+Uri: https://image.news1.kr/system/_sjs/_next/static/chunks/2140-a9dc7149711c7f98.js
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\_sjs\_next\static\chunks\2140-a9dc7149711c7f98.js
+Content Type: application/javascript
+
+Uri: https://image.news1.kr/system/_sjs/_next/static/chunks/3435-9dee3910753ea377.js
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\_sjs\_next\static\chunks\3435-9dee3910753ea377.js
+Content Type: application/javascript
+
+Uri: https://image.news1.kr/system/_sjs/_next/static/chunks/3628-44e04c15f7a14fc3.js
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\_sjs\_next\static\chunks\3628-44e04c15f7a14fc3.js
+Content Type: application/javascript
+
+Uri: https://image.news1.kr/system/_sjs/_next/static/chunks/4939-93fec57539972bd4.js
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\_sjs\_next\static\chunks\4939-93fec57539972bd4.js
+Content Type: application/javascript
+
+Uri: https://image.news1.kr/system/_sjs/_next/static/chunks/5465-dd6fc8c4805e8207.js
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\_sjs\_next\static\chunks\5465-dd6fc8c4805e8207.js
+Content Type: application/javascript
+
+Uri: https://image.news1.kr/system/_sjs/_next/static/chunks/5675-4746303f5abc179d.js
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\_sjs\_next\static\chunks\5675-4746303f5abc179d.js
+Content Type: application/javascript
+
+Uri: https://image.news1.kr/system/_sjs/_next/static/chunks/framework-b0ec748c7a4c483a.js
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\_sjs\_next\static\chunks\framework-b0ec748c7a4c483a.js
+Content Type: application/javascript
+
+Uri: https://image.news1.kr/system/_sjs/_next/static/chunks/main-fa15a6b6aedbd52b.js
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\_sjs\_next\static\chunks\main-fa15a6b6aedbd52b.js
+Content Type: application/javascript
+
+Uri: https://image.news1.kr/system/_sjs/_next/static/chunks/pages/[sections]/[subsections]/[id]-a1a6684f47509e30.js
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\_sjs\_next\static\chunks\pages\[sections]\[subsections]\[id]-a1a6684f47509e30.js
+Content Type: application/javascript
+
+Uri: https://image.news1.kr/system/_sjs/_next/static/chunks/pages/_app-af24dd10f282c21d.js
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\_sjs\_next\static\chunks\pages\_app-af24dd10f282c21d.js
+Content Type: application/javascript
+
+Uri: https://image.news1.kr/system/_sjs/_next/static/chunks/polyfills-42372ed130431b0a.js
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\_sjs\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://image.news1.kr/system/_sjs/_next/static/chunks/webpack-3a83bb02e8f9b695.js
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\_sjs\_next\static\chunks\webpack-3a83bb02e8f9b695.js
+Content Type: application/javascript
+
+Uri: https://image.news1.kr/system/_sjs/_next/static/css/210d508df724f348.css
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\_sjs\_next\static\css\210d508df724f348.css
+Content Type: text/css
+
+Uri: https://image.news1.kr/system/_sjs/_next/static/css/b26a1f6328a29379.css
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\_sjs\_next\static\css\b26a1f6328a29379.css
+Content Type: text/css
+
+Uri: https://image.news1.kr/system/_sjs/_next/static/media/ajax-loader.0b80f665.gif
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\_sjs\_next\static\media\ajax-loader.0b80f665.gif
+Content Type: image/gif
+
+Uri: https://image.news1.kr/system/_sjs/_next/static/media/slick.25572f22.eot
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\_sjs\_next\static\media\slick.25572f22.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://image.news1.kr/system/_sjs/_next/static/media/slick.25572f22.eot?
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\_sjs\_next\static\media\slick.25572f22-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://image.news1.kr/system/_sjs/_next/static/media/slick.653a4cbb.woff
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\_sjs\_next\static\media\slick.653a4cbb.woff
+Content Type: font/woff
+
+Uri: https://image.news1.kr/system/_sjs/_next/static/media/slick.6aa1ee46.ttf
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\_sjs\_next\static\media\slick.6aa1ee46.ttf
+Content Type: application/octet-stream
+
+Uri: https://image.news1.kr/system/_sjs/_next/static/media/slick.f895cfdf.svg
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\_sjs\_next\static\media\slick.f895cfdf.svg
+Content Type: image/svg+xml
+
+Uri: https://image.news1.kr/system/_sjs/_next/static/zHc_pWraxFvwdBOzWpVgI/_buildManifest.js
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\_sjs\_next\static\zHc_pWraxFvwdBOzWpVgI\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://image.news1.kr/system/_sjs/_next/static/zHc_pWraxFvwdBOzWpVgI/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\www.news1.kr\system\_sjs\_next\static\zHc_pWraxFvwdBOzWpVgI\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://www.news1.kr/entertain/broadcast-tv/5789390
+File Name: C:\Downloaded Web Sites\www.news1.kr\entertain\broadcast-tv\5789390.html
+Content Type: text/html
+
+Uri: https://www.news1.kr/_next/image?url=https:%2F%2Fi3n.news1.kr%2Fsystem%2Fphotos%2F2025%2F5%2F21%2F7299458%2Fhigh.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.news1.kr\_next\high-3.avif
+Content Type: image/avif
+
+Uri: https://www.news1.kr/_next/image?url=https:%2F%2Fi3n.news1.kr%2Fsystem%2Fphotos%2F2025%2F5%2F21%2F7299458%2Fhigh.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.news1.kr\_next\high-4.avif
+Content Type: image/avif
+
+Uri: https://www.news1.kr/_next/image?url=https:%2F%2Fi3n.news1.kr%2Fsystem%2Fphotos%2F2025%2F5%2F21%2F7299458%2Fhigh.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.news1.kr\_next\high.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.news1.kr/_next/image?url=https:%2F%2Fi3n.news1.kr%2Fsystem%2Fphotos%2F2025%2F5%2F21%2F7299458%2Fhigh.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.news1.kr\_next\high.avif
+Content Type: image/avif
+
+Uri: https://www.news1.kr/_next/image?url=https:%2F%2Fi3n.news1.kr%2Fsystem%2Fphotos%2F2025%2F5%2F21%2F7299458%2Fhigh.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.news1.kr\_next\high-1.avif
+Content Type: image/avif
+
+Uri: https://www.news1.kr/_next/image?url=https:%2F%2Fi3n.news1.kr%2Fsystem%2Fphotos%2F2025%2F5%2F21%2F7299458%2Fhigh.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.news1.kr\_next\high-2.avif
+Content Type: image/avif
+
