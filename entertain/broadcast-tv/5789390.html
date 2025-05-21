@@ -3337,6 +3337,18 @@
       }
     </script> -->
     <script>
+      document.addEventListener('DOMContentLoaded', () => {
+        const imgs = document.querySelectorAll('.figure-box-layer img');
+        imgs.forEach((img) => {
+          // 원본 width 어트리뷰트 값(예: "1152")를 읽어 최대 너비로 설정
+          const originalWidth = img.getAttribute('width');
+          img.style.display = 'block';
+          img.style.margin = '0 auto';
+          img.style.width = '100%';
+          img.style.height = 'auto';
+          img.style.maxWidth = originalWidth + 'px';
+        });
+      });
       var API_KEY = '532b81fa223a1b1ec74139a5b8151d12';
       var aedi = new Aedi();
       var aediWritingTime = '2025-05-21T14:10:39.180Z';
